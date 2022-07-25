@@ -10,6 +10,7 @@
 
 
 ## CSCI 70300 - Data Structures in a High Level Language
+
 |Topics |
 |---|
 |[Array Lists](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/ds/arraylists/AlPractice.java)|
@@ -19,6 +20,7 @@
 
 
 ## SEDC 71900 - Methods I
+
 |Topics |
 |---|
 |[CS Unplugged Activity](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/methods/04_unplugged.md)|
