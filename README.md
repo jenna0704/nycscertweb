@@ -27,3 +27,10 @@
 |[CS Unplugged Activity](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/methods/04_unplugged.md)|
 |[Scaffolding Techniques](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/methods/05_scaffold.md)|
 
+
+## Checklist
+
+- [x] One
+- [ ] Two
+- [ ] Three
+
