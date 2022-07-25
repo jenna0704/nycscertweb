@@ -1,12 +1,14 @@
-# nycscertweb
+# Hunter College Advanced Certificate in Computer Science Education
 
-## Math gives us hope that every problem has a solution.
-
-## CSCI 70900
+## CSCI 70900 - Programming in a High Level Language
 
 
-## CSCI 70300
 
 
-## SEDC 71900
+## CSCI 70300 - Data Structures in a High Level Language
+
+
+
+
+## SEDC 71900 - Methods I: Advanced Study of Secondary Learning Environments for Teaching Computer Science
 
