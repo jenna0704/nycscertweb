@@ -1,4 +1,5 @@
 # Hunter College Advanced Certificate in Computer Science Education
+# Jenna Lin's Portfolio
 
 ## CSCI 70900 - Programming in a High Level Language
 
