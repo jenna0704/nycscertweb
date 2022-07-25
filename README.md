@@ -10,8 +10,8 @@
 
 
 ## CSCI 70300 - Data Structures in a High Level Language
-| Topics      |
-|-------------|
+| Topics |
+|---|
 |[Array Lists](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/ds/arraylists/AlPractice.java)|
 |[Linked Lists](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/tree/master/ds/linkedlists)|
 |[Pointers](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/tree/master/ds/pointers)|
@@ -19,8 +19,8 @@
 
 
 ## SEDC 71900 - Methods I
-| Topics      |
-|-------------|
+| Topics |
+|---|
 |[CS Unplugged Activity](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/methods/04_unplugged.md)|
 |[Scaffolding Techniques](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/methods/05_scaffold.md)|
 
