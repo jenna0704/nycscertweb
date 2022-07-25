@@ -4,7 +4,7 @@
 
 | Topics      | Links              |
 |-------------|--------------------|
-|Pre-Work-----|https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/tree/master/programming/pre|
+|Pre-Work|https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/tree/master/programming/pre|
 
 
 ## CSCI 70300 - Data Structures in a High Level Language
